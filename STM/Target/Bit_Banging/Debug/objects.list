@@ -1,0 +1,6 @@
+"./Driver_new/Src/GPIO_DRIVER.o"
+"./Driver_new/Src/SPI.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32g0b1retxn.o"
